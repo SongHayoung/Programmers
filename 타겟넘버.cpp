@@ -1,7 +1,7 @@
 #include <vector>
 using namespace std;
 int NUM[20],tot = 0,T, size;
-//20:00
+//20:00 
 vector<int> DP(1048576,-1);
 int dp(int idx,int bit_mask){
     if(idx==size)
