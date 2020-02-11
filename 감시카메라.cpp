@@ -18,7 +18,6 @@ int solution(vector<vector<int>> routes) {
         if(pos<routes[i][0]) {
             pos = routes[i][1];
             answer++;
-
         }
     }
     return answer;
