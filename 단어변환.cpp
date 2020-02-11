@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <memory.h>
-//18min 15sec
+//18:15
 using namespace std;
 int answer = 987654321;
 bool can_Convert(string s1, string s2){
