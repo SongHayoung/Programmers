@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <cstring>
 using namespace std;
-//20:24
+//20:24 
 vector<int> solution(vector<string> operations) {
     vector<int> prefix;
     for(int i=0;i<operations.size();i++){
