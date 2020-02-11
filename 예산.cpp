@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-//1:10:00
+//1:10:00 
 using namespace std;
 vector<long long> psum;
 vector<long long> need_total;
