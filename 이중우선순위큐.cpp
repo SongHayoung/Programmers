@@ -4,7 +4,6 @@
 #include <cstdlib>
 #include <stdlib.h>
 #include <cstring>
-#include <iostream>
 using namespace std;
 //20:24
 vector<int> solution(vector<string> operations) {
