@@ -2,6 +2,7 @@
 #include <vector>
 #include <math.h>
 using namespace std;
+//20:00
 int number[10]={0,};
 int answer = 0,size;
 int cur_size;
