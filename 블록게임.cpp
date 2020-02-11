@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <memory.h>
 #include <queue>
-//3:12:32
+//3:12:32 
 using namespace std;
 int n;
 vector<vector<int>> Board;
