@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-//58:57
+//58:57 
 class INFO{
 public:
     string name;
