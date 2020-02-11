@@ -1,6 +1,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
+//20:00
 int b[3], d[3];
 int strike = 0, ball = 0;
 vector<int> possible;
