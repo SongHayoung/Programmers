@@ -1,7 +1,6 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-#include <iostream>
 //1:10:00
 using namespace std;
 vector<long long> psum;
