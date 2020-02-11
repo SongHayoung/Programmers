@@ -1,7 +1,6 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-#include <iostream>
 //19:33
 using namespace std;
 bool mysort(vector<int> v1, vector<int> v2){
