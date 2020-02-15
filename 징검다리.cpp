@@ -16,7 +16,7 @@ using namespace std;
  return removed<=n;
  }*/
 //정답코드
-bool is_possible(vector<int>& rocks, int &stnd, int &n, int &dis){
+inline bool is_possible(vector<int>& rocks, int &stnd, int &n, int &dis){
     int removed = 0, prev = 0, i;
     for(i=0;i<rocks.size();i++){
         if(rocks[i]-prev<stnd){
