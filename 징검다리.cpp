@@ -6,12 +6,14 @@ int SIZE;
 /*
  inline bool is_possible(vector<int>& rocks, int &stnd, int &n, int &dis){
  register int removed = 0, prev = 0, i;
- for(i=0;i<SIZE;i++){
+ for(i=0;i<SIZE;i++)
  rocks[i]-prev<stnd ? ++removed : prev = rocks[i];
  
  return (dis-rocks[i])<dis ? (removed+1)<=n : removed<=n;
- }*/
+ }
+ */
 //정답코드
+
 inline bool is_possible(vector<int>& rocks, int &stnd, int &n, int &dis){
     register int removed = 0, prev = 0, i;
     for(i=0;i<SIZE;i++)
